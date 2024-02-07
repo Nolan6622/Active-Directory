@@ -20,7 +20,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create virtual machine using microsoft azure
+- Create Virtual Machine using Microsoft Azure
 - Step 2
 - Step 3
 - Step 4
